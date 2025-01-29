@@ -1,0 +1,15 @@
+outlook,temp,humidity,windy,day,hours,play
+sunny,hot,high,FALSE,Mon,14 ,no
+sunny,hot,high,TRUE,Sun,16 ,no
+overcast,hot,high,FALSE,Thu,20 ,yes
+rainy,mild,high,FALSE,Fri,12 ,yes
+rainy,cool,normal,FALSE,Sat,10 ,yes
+rainy,cool,normal,TRUE,Sun,6 ,no
+overcast,cool,normal,TRUE,Wed,19 ,yes
+sunny,mild,high,FALSE,Tue,2 ,no
+sunny,cool,normal,FALSE,Fri,18 ,yes
+rainy,mild,normal,FALSE,Sat,9 ,yes
+sunny,mild,normal,TRUE,Mon,21 ,yes
+overcast,mild,high,TRUE,Tue,20 ,yes
+overcast,hot,normal,FALSE,Thu,16 ,yes
+rainy,mild,high,TRUE,Fri,15 ,no
